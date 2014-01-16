@@ -1,0 +1,19 @@
+PALABRAS:
+Protesis
+Discapacidad
+Proto OS
+Comandos de Voz
+Google Glass
+Cansancio
+Administración de Recursos
+Sensor de Proximidad
+Seguridad
+Modos
+
+IDEAS:
+Las protesis tendrían integrado un sistema operativo (Proto OS) para administrar los recursos.
+El usuario discapacitado se comunicaría con Proto OS mediante comandos de voz.
+Los comandos de voz llegarían a Proto OS mediante Google Glass.
+En caso de que el usuario se canse, mediante comandos de voz se aumentaría el trabajo de la protesis.
+Para mayor seguridad, la protesis tendría sensores de proximidad para personas con discapacidad visual.
+Según el tipo de usuario, Proto OS sería capaz de configurar modalidades de uso. (Por ejemplo, la protesis se comportaría diferente para un usuario que es deportista y para un usuario que es médico)
